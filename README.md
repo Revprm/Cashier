@@ -15,6 +15,6 @@ This Project is a Cashier for Market, Supermarket etc. The Implementation of thi
 
 ### How to Run The File 
 1. Open the `main.c` file in **Visual Studio Code**
-2. Open the terminal and type `mingw32-make all` -> this command makes a `.exe` file that includes all the source codes and headers from the existing folder in `src` and `include`
+2. Open the terminal and type `mingw32-make all` -> this command makes a `.exe` file that includes all the source codes and header file from the existing folder in `src` and `include`
 3. The `.exe` file will be located in the `bin` folder
 4. Run the `.exe` File or you can run it by typing `mingw32-make run` on the terminal after you type `mingw32-make all` in `main.c` file
