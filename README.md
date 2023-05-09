@@ -2,7 +2,7 @@
 Final Project For Subject Fundamental Programming in Semester 1
 
 ## Details About the Final Project
-This Project is a Cashier for Market, Supermarket etc. The Implementation of this Project is Using File Processing, Modular Programming and Basic Fundamental Programming.
+This Project is a Cashier for a Market, Supermarket etc. The Implementation of this Project is Using File Processing, Modular Programming and Basic Fundamental Programming.
 
 |             Commands            |                               Functions                                        |
 |:-------------------------------:|:------------------------------------------------------------------------------:|
